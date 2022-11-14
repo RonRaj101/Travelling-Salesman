@@ -1,4 +1,4 @@
-# travelling_salesman
+# Travelling Salesman Solution JAVA
 Travelling Salesman Problem, solved with a modification of the Traditional Depth First Search
 
 Code has been commented properly and an explaination of the algorithm can be found alongside the Main.java File.
