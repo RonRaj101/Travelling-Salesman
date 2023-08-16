@@ -8,6 +8,7 @@ Recommended to be run on Eclipse IDE for Java.
 Feel free to optimize and improve code.
 
 Explaination:
+
 The algorithm used is a modification of the Depth-First Search Algorithm, the modification is required due to the fact that 2d arrays are used instead of a graph or binary tree which can be easily traversed.
 
 Firstly data from the text file is read line by line into the "cityDistances" 2d array.
